@@ -72,7 +72,7 @@ li {
 .title {
   position: relative;
   font-size: 2.5rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
   color: white;
 }
 
@@ -445,7 +445,7 @@ li {
 
 .skills-title {
   margin-top: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   font-size: 2rem;
   color: white;
 }
@@ -453,7 +453,7 @@ li {
 .sub-skills-title {
   font-size: 1.5rem;
   color: white;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
 }
 
 .skills-content {
