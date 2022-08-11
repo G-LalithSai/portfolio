@@ -453,7 +453,7 @@ li {
 .sub-skills-title {
   font-size: 1.5rem;
   color: white;
-  margin-bottom: 0.3rem;
+  /* margin-bottom: 0.3rem; */
 }
 
 .skills-content {
