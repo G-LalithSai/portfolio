@@ -72,7 +72,7 @@ li {
 .title {
   position: relative;
   font-size: 2.5rem;
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   color: white;
 }
 
@@ -301,7 +301,7 @@ li {
 }
 
 .about-timeline {
-  padding-top: 1rem;
+  padding-top: 0.5rem;
   padding-right: 3rem;
 }
 
@@ -453,7 +453,7 @@ li {
 .sub-skills-title {
   font-size: 1.5rem;
   color: white;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.3rem;
 }
 
 .skills-content {
