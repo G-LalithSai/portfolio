@@ -459,11 +459,12 @@ li {
 .skills-content {
   display: flex;
   flex-wrap: wrap;
+  gap: 5px;
 }
 
 .skills-tile {
   padding: 0.5rem 1rem;
-  background-color: #181a1b;
+  background-color: #090a0a;
   color: lightgray;
   margin: 0.2rem;
   border-radius: 2rem;
@@ -533,7 +534,7 @@ li {
   display: inline-block;
   margin: 1rem 1rem 2rem;
   width: 24rem;
-  height: 27rem;
+  /* height: 27rem; */
   background-color: #181a1b;
   border-radius: 2rem;
   border: 0.3rem solid #181a1b;
@@ -566,6 +567,10 @@ li {
   background-image: url(assets/projects/bobbibrown.png);
 }
 
+.project-card-toggltrack {
+  background-image: url(assets/projects/toggltrack.png);
+}
+
 .project-card-content {
   padding: 1rem;
 }
@@ -576,6 +581,7 @@ li {
 }
 
 .project-card-btn-box {
+  margin: 1rem 0rem;
   display: flex;
   justify-content: space-around;
 }
@@ -592,6 +598,11 @@ li {
   border-radius: 2rem;
   transition: all 0.2s linear;
   border: 0.1em solid transparent;
+}
+
+.project-card-data {
+  padding: 0 1rem;
+  color: white;
 }
 
 .project-card-btn:hover {
